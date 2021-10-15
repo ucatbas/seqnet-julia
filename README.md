@@ -1,5 +1,5 @@
 # seqnet-julia
-Comp 541 Deep Learning Course Term Project - Replication of SeqNet implemented by serend1p1ty
+Comp 541 Deep Learning Course Term Project - Replication of [SeqNet](https://github.com/serend1p1ty/SeqNet) implemented by [Zhengjia Li](https://github.com/serend1p1ty).
 
 You can follow the project progress from below links:
 * [Research Log](https://docs.google.com/document/d/1zc91eirBzs69MEuiu_Ad0Ttj3nynLWFkWC4WJJXWZMg/edit?usp=sharing)
