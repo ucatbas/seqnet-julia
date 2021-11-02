@@ -7,4 +7,4 @@ You can follow the project progress from below links:
 * [Presentation](https://docs.google.com/presentation/d/1PyOYIgrurewbP5map9o4cp1GxYAw1suQI_EVPpdiZhI/edit?usp=sharing)
 * [Tech Report](https://www.overleaf.com/read/zgkzqthbnygp)
 
-The datasets used are [CUHK-SYSU](https://drive.google.com/open?id=1z3LsFrJTUeEX3-XjSEJMOBrslxD2T5af) and [PRW](https://goo.gl/2SNesA)
+The datasets used are [CUHK-SYSU](http://www.ee.cuhk.edu.hk/~xgwang/PS/dataset.html) and [PRW](http://zheng-lab.cecs.anu.edu.au/Project/project_prw.html)
