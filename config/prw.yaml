@@ -1,0 +1,10 @@
+OUTPUT_DIR: "./koc-fall21-ws/models/exp_prw"
+INPUT:
+  DATASET: "prw"
+  DATA_ROOT: "./koc-fall21-ws/datasets"
+SOLVER:
+  MAX_EPOCHS: 20
+MODEL:
+  LOSS:
+    LUT_SIZE: 5532
+    CQ_SIZE: 5000
